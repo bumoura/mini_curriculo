@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 255);
+    border:  rgb(11, 184, 175);
+    border-spacing: 0mm; color:  rgb(11, 184, 175);
+    border-style: outset; color: rgb (11, 184, 175); 
+    width: 900px;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    padding: 10px 10px 10px 10px;
+    color: cornsilk;
+               }
+  hr{
+
+      color:rgb(226, 43, 52);
+  }
+  h1{
+      color: rgb(11, 184, 175);
+
+  }
+  h2{
+      color: rgb(11, 184, 175);
+  }
+  
+  p{
+      color: rgb(218, 24, 130); font-style: italic; font-variant-position: inherit;
+  }
+  
+  h4{
+      color: rgb(218, 24, 130); font-style: italic;
+  }
+
+  #centro {
+    width:200px;
+    height:200px;
+    position: absolute;
+    top:14%;
+    left:60%;
+    
+
+
+    }
